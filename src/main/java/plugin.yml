@@ -1,0 +1,6 @@
+name: Illiterate
+version: 0.0.4a
+description: Removes enchantment books.
+author: psygate
+database: false
+main: org.psygate.minecraft.illiterate.Illiterate

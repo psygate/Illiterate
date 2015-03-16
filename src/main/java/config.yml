@@ -1,0 +1,7 @@
+# Allows or disallows enchantments
+
+Items:
+    - Shears:
+        - Silk_Touch: AnyLevel
+    - Hoes:
+        - Silk_Touch: AnyLevel
